@@ -34,3 +34,6 @@ color: tomato;
 #page{
   margin: 0 80px; 
 }
+input[type="radio"]{
+  color: aliceblue;
+}
