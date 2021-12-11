@@ -1,8 +1,8 @@
 .bg-img {
   /* The image used */
-  background-image: url("images/istockphoto-519012681-170667a.jpg");
-
-  min-height: 1200px;
+  background-image: url("images/eekc6p-e1632742878722.jpg");
+min-height: 800px;
+ 
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -52,9 +52,19 @@ ul{
 }
 .description{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  font-size: 1.3rem;
 
 }
 h2{
   text-align: center;
+  color: white;
+
+}
+p{
+  border: 2px solid white;
+  margin-right: 1em;
+  border-radius: 10px;
+  color:black;
+  
 }
