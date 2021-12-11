@@ -20,6 +20,11 @@ let submit = document.getElementById("Submit")
           
           var AkanMale = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"]
           var AkanFemale = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
+          var date = new Date(year.value+"/"+month.value+"/"+day.value)
+          var Akan= date.getDay()
+          if(gender.value=="male"){
+            
+          }
 
         }
       }
