@@ -1,0 +1,36 @@
+body{
+
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+.image{
+  height: 300px;
+
+
+  padding: 0 0px;
+ 
+/* position: fixed; */
+}
+.section1{
+  background-color: aqua;
+  display: flex;
+  text-align: right;
+ 
+
+
+}
+ul{
+  background-color: white;
+  padding-top: 20px;
+  
+}
+.nav-link{
+font-size: 25px;
+color: tomato;
+
+
+}
+#page{
+  margin: 0 80px; 
+}
