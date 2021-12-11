@@ -5,15 +5,16 @@ let gender = document.getElementById("Gender")
 let submit = document.getElementById("Submit")
 
  function AkanName(){
-   if(day<=0 || day>31){
+   alert(day.value)
+  if(day.value<=0 || day.value>31){
      alert("Josephine says invalid!")
     }
     else{
-      if(month<=0 || month>12){
+      if(month.value<=0 || month.value>12){
         alert("Josephine says invalid!")
       }
       else{
-        if(year<=0 || year>2021){
+        if(year.value<=0 || year.value>2021){
           alert("Josephine says invalid")
         }
         else{
@@ -21,12 +22,16 @@ let submit = document.getElementById("Submit")
           var AkanMale = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"]
           var AkanFemale = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
           var date = new Date(year.value+"/"+month.value+"/"+day.value)
-         var display=document.getElementById("display")
+          var display=document.getElementById("display")
           var Akan= date.getDay()
-          if(gender.value=="male"){
-            
+          if(gender.value=="Male"){
+           alert("Josephine says your Akan name is"+ AkanMale[Akan])
           }
-
+            else  if(gender.value=="Female"){
+              alert("Josephine says your Akan name is"+ AkanFemale[Akan])
+            }else{
+              alert("Josephine says invalid")
+            }
         }
       }
     }

@@ -1,6 +1,6 @@
 .bg-img {
   /* The image used */
-  background-image: url("images/gettyimages-517959193-612x612.jpg");
+  background-image: url("images/istockphoto-519012681-170667a.jpg");
 
   min-height: 1200px;
 
@@ -23,9 +23,10 @@
 /* The navbar */
 .topnav {
   overflow: hidden;
-  background-color: #333;
-  display: flex;
+  background-color: rgb(14, 47, 139);
+  display: flex-right-end;
   justify-self: flex-end;
+  align-content: center;
 
 }
 
@@ -43,4 +44,17 @@
   background-color: #ddd;
   color: black;
 }
+.display{
+  background-color: blueviolet;
+}
+ul{
+  font-display: c;
+}
+.description{
+  display: flex;
+  justify-content: space-around;
 
+}
+h2{
+  text-align: center;
+}
