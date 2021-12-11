@@ -1,7 +1,7 @@
 .bg-img {
   /* The image used */
   background-image: url("images/gettyimages-517959193-612x612.jpg");
-min-height: 1200px;
+min-height: 1400px;
  
 
   /* Center and scale the image nicely */
@@ -30,7 +30,7 @@ min-height: 1200px;
 
 }
 .forms{
-  margin-top: 5rem;
+  margin-top: 6rem;
   text-align: center;
   font-weight: bold;
   font-size: 1.3rem;
