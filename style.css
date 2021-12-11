@@ -1,10 +1,8 @@
-
-
 .bg-img {
   /* The image used */
   background-image: url("images/gettyimages-517959193-612x612.jpg");
 
-  min-height: 350px;
+  min-height: 1200px;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -42,3 +40,4 @@
   background-color: #ddd;
   color: black;
 }
+
