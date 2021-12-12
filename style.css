@@ -1,7 +1,7 @@
 .bg-img {
   /* The image used */
   background-image: url("images/gettyimages-517959193-612x612.jpg");
-min-height: 1400px;
+min-height: 1300px;
  
 
   /* Center and scale the image nicely */
@@ -30,15 +30,16 @@ min-height: 1400px;
 
 }
 .forms{
-  margin-top: 6rem;
+  margin-top: 1rem;
   text-align: center;
   font-weight: bold;
   font-size: 1.3rem;
   font-family: 'Roboto', sans-serif;
-  color: greenyellow;
-
+  
 }
-
+span{ 
+color:black;
+}
 
 
 
@@ -103,4 +104,17 @@ label{
 a{
   color:white
   
+}
+.footer{
+  text-align: center;
+ 
+  font-family: 'Roboto', sans-serif;
+  font: size 1.3rem;
+ align-content:flex-end;
+  margin-top: 8rem;
+  background-color: brown;
+  width: 100vw;
+  display: right;
+
+
 }
