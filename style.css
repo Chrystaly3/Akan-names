@@ -1,7 +1,7 @@
 .bg-img {
   /* The image used */
   background-image: url("images/gettyimages-517959193-612x612.jpg");
-min-height: 1300px;
+min-height: 1110px;
  
 
   /* Center and scale the image nicely */
@@ -74,7 +74,7 @@ color:black;
 }
 h2{
   text-align: center;
-  color:greenyellow;
+  color:blue;
   font-size: 60px;
   font-family: 'Russo One', sans-serif;
 
@@ -88,7 +88,7 @@ font-size: 20px;
 
 
 p{
-  border: 2px solid rgb(83, 197, 31);
+  border: 2px solid blue;
   margin-right: 1em;
   border-radius: 5px;
   color:black;
@@ -108,14 +108,28 @@ a{
 }
 .footer{
   text-align: center;
- 
+  height: 10vh;
   font-family: 'Roboto', sans-serif;
   font: size 1.5rem;
- align-content:flex-end;
+  align-content:flex-end;
   margin-top: 8rem;
+  margin-left: -3rem;
   background-color: brown;
   width: 110vw;
-  display: right;
+position: relative;
+bottom: 0px;
 
 
+}
+.Form-head{
+justify-content: center;
+width: 90vw;
+display: flex;
+
+
+}
+.main{
+  border: none;
+  background-color:blue;
+  color: white;
 }
