@@ -5,21 +5,18 @@ A current version
 
 ## Description
 Its my part of school assignment project about how to search Akan names with according to the day,month and the year they born through the following procedure;
+## Steps
 Enter a birth date: 35;
 returns invalid since the day is beyond days of the month.
+
 Enter a birth date:2; second day of week
 returns ok day 2;
-Enter an invalid month 13
-returns invalid:
+
 Enter a valid month:2 
-returns ok r 
+returns ok 
 Enter a valid year 1980
-
-
-
-
-
-
+returns 2 and says Josephine says the second day of week 
+ Akan name is Kwame since is second day of week.
 
 ## Setup/Installation Requirements
 * Code is a must in regardles of the editor used and install git
