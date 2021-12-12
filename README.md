@@ -1,5 +1,5 @@
  # Akan names Document
-#### By Josephien Mueni 
+#### By Josephine Mueni 
 A current version
 #### By **{List of contributors}**
 Josephine Mueni Nzioka
