@@ -69,7 +69,7 @@ color:black;
   display: flex;
   justify-content:space-between;
   font-size: 1.3rem;
-  margin-top: 3rem;
+  margin-top: 8rem;
 
 }
 h2{
@@ -113,11 +113,11 @@ a{
   font: size 1.5rem;
   align-content:flex-end;
   margin-top: 8rem;
-  margin-left: -3rem;
+  margin-left:-3rem;
   background-color: brown;
   width: 110vw;
-position: relative;
-bottom: 0px;
+  padding-top: 1.5rem;
+
 
 
 }
