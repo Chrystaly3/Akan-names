@@ -90,12 +90,12 @@ font-size: 60px;
 p{
   border: 2px solid rgb(83, 197, 31);
   margin-right: 1em;
-  border-radius: 10px;
+  border-radius: 5px;
   color:black;
   background-color: rgb(71, 83, 255);
   
   font-family: 'Roboto', sans-serif;
-  text-align: center;
+  text-align:center;
   
 }
 label{
@@ -109,7 +109,7 @@ a{
   text-align: center;
  
   font-family: 'Roboto', sans-serif;
-  font: size 1.3rem;
+  font: size 1.5rem;
  align-content:flex-end;
   margin-top: 8rem;
   background-color: brown;
