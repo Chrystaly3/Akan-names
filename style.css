@@ -82,7 +82,7 @@ h2{
 h3{
   font-family: 'Russo One', sans-serif;
   color:black;
-font-size: 60px;
+font-size: 20px;
 }
 
 
@@ -96,6 +96,7 @@ p{
   
   font-family: 'Roboto', sans-serif;
   text-align:center;
+  font-size: 20px;
   
 }
 label{
@@ -113,7 +114,7 @@ a{
  align-content:flex-end;
   margin-top: 8rem;
   background-color: brown;
-  width: 100vw;
+  width: 110vw;
   display: right;
 
 
