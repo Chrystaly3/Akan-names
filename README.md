@@ -17,8 +17,11 @@ Css for styling the document
 Bootstrap for responsivenes
 JavaScript for dynamic and behaviour of web pages
 ## Support and contact details
-Moringa School
-josephine.nzioka@student.moringaschool.com
+School:Moringa School
+Email:josephine.nzioka@student.moringaschool.com
+Project link:https://github.com/Chrystaly3/Akan-names.git
 ### License
 Mit License
+
+
 Copyright (c) {2021} **{J2Coding}**
