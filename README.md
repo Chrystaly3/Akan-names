@@ -2,7 +2,7 @@
 #### By Josephien Mueni 
 A current version
 #### By **{List of contributors}**
-
+Josephine Mueni Nzioka
 ## Description
 Its my part of school assignment project about how to search Akan names with according to the day,month and the year they born through the following procedure;
 ## Steps
